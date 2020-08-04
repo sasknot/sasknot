@@ -1,5 +1,3 @@
-# Rafael Silva
-
 ### Hi there 👋
 Currently I'm a Software Developer at [Pulsup](https://pulsup.com.br/)
 Living in São José dos Campos, São Paulo, Brazil
