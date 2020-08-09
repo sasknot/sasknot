@@ -3,7 +3,7 @@
 I'm a Software Developer at [Pulsup](https://pulsup.com.br/) living in São José dos Campos, São Paulo, Brazil.
 
 
-Currently I'm in the stack **vuejs**, **expressjs**, **graphql**, **mysql** and **docker**
+Currently I'm in the stack **sass**, **vuejs**, **expressjs**, **graphql**, **mysql** and **docker**
 
 
 Learning about **reactjs** and **react native**
