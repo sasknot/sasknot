@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer at [Pulsup](https://pulsup.com.br/) living in São José dos Campos, São Paulo, Brazil.
+I'm a Software Developer at [EFFICI](https://effici.com.br/) living in São José dos Campos, São Paulo, Brazil.
 
 
 Currently I'm in the stack **sass**, **vuejs**, **expressjs**, **graphql**, **mysql** and **docker**
