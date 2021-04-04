@@ -3,7 +3,7 @@
 I'm a Software Developer at [EFFICI](https://effici.com.br/) living in São José dos Campos, São Paulo, Brazil.
 
 
-Currently I'm in the stack **sass**, **vuejs**, **expressjs**, **graphql**, **mysql** and **docker**
+Currently I'm in the stack **expressjs**, **vuejs**, **graphql**, **mysql**, **sass**, **mochajs**, **jest** and **docker**
 
 
 Learning about **reactjs** and **react native**
