@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Software Developer at [EFFICI](https://effici.com.br/) living in São José dos Campos, São Paulo, Brazil.
+I'm a Software Developer at [Comunica.In](https://comunica.in) living in Sao Jose dos Campos, Sao Paulo, Brazil.
 
 
-Currently I'm in the stack **expressjs**, **vuejs**, **graphql**, **mysql**, **sass**, **mochajs**, **jest** and **docker**
+Currently I'm in the stack **vite**, **vuejs** and **postcss**
 
 
 Learning about **reactjs** and **react native**
