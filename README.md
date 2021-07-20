@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Software Developer at [Comunica.In](https://comunica.in) living in Sao Jose dos Campos, Sao Paulo, Brazil.
+I'm a Software Developer at [Comunica.In](https://comunica.in/en) living in Sao Jose dos Campos, Sao Paulo, Brazil.
 
 
-Currently I'm in the stack **vite**, **vuejs** and **postcss**
+Currently I'm in the stack **expressjs**, **aws serverless**, **vite**, **vuejs** and **postcss**
 
 
 Learning about **reactjs** and **react native**
