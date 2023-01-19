@@ -3,7 +3,7 @@
 I'm a Front End Developer living in Sao Jose dos Campos, Sao Paulo, Brazil.
 
 
-Currently I'm in the stack **expressjs**, **aws serverless**, **vite**, **vuejs** and **postcss**
+Currently I'm in the stack **vue**, **react**, **express**, **mysql**, **sass**, **mocha**, **jest**, **docker**, **aws**
 
 
 Learning about **reactjs** and **react native**
